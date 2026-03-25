@@ -9,8 +9,8 @@
 
 ### 1. Attendees
 
-* **Present:** Carrie Shi, Qinyi Zheng, Xiaonan Wang, Zhenhao Hong, Navid Akhavan Attar(Supervisor)
-* **Apologies:** Muchuan Ji
+* **Present:** Carrie Shi, Qinyi Zheng, Xiaonan Wang, Zhenhao Hong, Muchuan Ji, Navid Akhavan Attar(Supervisor)
+* **Apologies:** 
 
 ### 2. Agenda
 
@@ -24,5 +24,5 @@ The team held an in-depth discussion regarding the technical stack and core proj
 
 ### 4. Key Decisions
 
-* **Stakeholder Engagement:** Arrange a meeting with the industry partner (Wintringham) as soon as possible (ASAP).
+* **Stakeholder Engagement:** Arrange a meeting with the industry partner (Wintringham) as soon as possible.
 * **Meeting Cadence:** Establish a recurring weekly meeting to track progress.
