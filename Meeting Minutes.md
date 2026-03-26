@@ -2,15 +2,15 @@
 
 # Meeting #1
 **Date:** 12 March 2026  
-**Time:** 16:00  
+**Time:** 16:00 - 17:00
 **Location:** Online via Zoom  
 
 ---
 
 ### 1. Attendees
 
-* **Present:** Carrie Shi, Qinyi Zheng, Xiaonan Wang, Zhenhao Hong, Muchuan Ji, Navid Akhavan Attar(Supervisor)
-* **Apologies:** 
+* **Present:** Carrie Shi, Qinyi Zheng, Xiaonan Wang, Zhenhao Hong, Navid Akhavan Attar(Supervisor)
+* **Apologies:** Muchuan Ji
 
 ### 2. Agenda
 
@@ -29,35 +29,70 @@ The team held an in-depth discussion regarding the technical stack and core proj
 
 
 
-# Meeting #2
-**Date:** 26 March 2026  
-**Time:** 11:00  
-**Location:**  
+# Meeting Minutes: Wintringham & University of Melbourne Project Kick-off
+
+**Date:** March 26, 2026  
+**Time:** 11:00 - 12:00
+**Location:** Wintringham Office, Melbourne  
 
 ---
 
-### 1. Attendees
+## 1. Attendees
 
-* **Present:** Carrie Shi, Qinyi Zheng, Xiaonan Wang, Zhenhao Hong, Muchuan Ji, Navid Akhavan Attar(Supervisor)
-* **Apologies:** 
+### Wintringham Staff
+- **Tanya Atkinson:** Acting GM for Quality, Innovation, and Communications.
+- **David E:** Head of Information Technology.
+- **David N:** Head of Practice for Social Support.
 
-### 2. Agenda
+### University of Melbourne Student Team
+Carrie Shi, Qinyi Zheng, Xiaonan Wang, Zhenhao Hong, Muchuan Ji
 
+### Academic Supervisor
+- **Navid:** PhD student / Project Supervisor (joined via video call)
 
+---
 
-### 3. Discussion Summary
+## 2. Project Overview & Objectives
 
-1. history of wintringham
-2. problem faced; 7 differernt data source; distributed client
-3. format of report(no particular form), would like data story of one client
-4. access of data, privacy problems
-5. key dates(not required)
-6. connection frequency (teams)
-7. updates (no data science knowledges, depends on project, feel free to ask any question)
-8. next meeting schedual (11 am 2 April), require everyone's contact info
-9. 
+### Context
+Wintringham is a non-profit organization specializing in housing and support for elderly people who have experienced homelessness. Historically, IT investment has been secondary to client care, leading to fragmented data systems.
 
-### 4. Key Decisions
+### Core Objectives
+* **System Integration:** Suggest ways to bridge at least seven disparate client databases that currently do not communicate.
+* **Client Journey Mapping:** Transition from anecdotal stories to data-driven narratives, tracking client progress from homelessness to residential care over the last 10+ years.
+* **Insight Reporting:** Identify which support services are most effective and provide a high-level overview of the total client population.
+
+---
+
+## 3. Key Challenges & Constraints
+
+* **Data Silos:** Clients often exist in multiple databases with different IDs and inconsistent data collection methods.
+* **Data Maturity:** The organization is in the early stages of viewing data as a strategic asset.
+* **Privacy & Security:** The project involves sensitive **health and medical record data**. 
+    * Full access to identified data (names, DOB) is required for effective linking.
+    * Remote access will be managed via MDM (Mobile Device Management) software to ensure a secure "walled garden" environment.
+
+---
+
+## 4. Action Plan & Next Steps
+
+| Task | Responsibility | Deadline |
+| :--- | :--- | :--- |
+| Send personal contact info (Email/Phone) | Students | ASAP |
+| Internal onboarding & IT identity creation | Wintringham IT | Next week |
+| Privacy & Ethics briefing | David N / Team | Next meeting |
+| Database structure walkthrough | John / Students | Next meeting |
+| Project Status Report | Students | 1 Month |
+| Final Semester 1 Presentation/Report | Students | 2 Months |
+
+---
+
+## 5. Communication & Cadence
+
+* **Primary Channel:** A dedicated **Microsoft Teams** channel will be established for asynchronous communication and documentation.
+* **Meeting Frequency:** * **Phase 1:** Weekly meetings to bridge the knowledge gap in data science and domain logic.
+    * **Phase 2:** Transition to fortnightly meetings as the project stabilizes.
+* **Next Meeting:** **Thursday, April 2, 2026, at 1:00 PM** (Online/Hybrid).
 
 
 
