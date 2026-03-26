@@ -1,6 +1,5 @@
-# Meeting Minutes: Wintringham Data Integration and Insights Project
+# Meeting Minutes: Wintringham Data Integration and Insights Project First Meeting
 
-# Meeting #1
 **Date:** 12 March 2026  
 **Time:** 16:00 - 17:00
 **Location:** Online via Zoom  
@@ -80,8 +79,7 @@ Wintringham is a non-profit organization specializing in housing and support for
 | :--- | :--- | :--- |
 | Send personal contact info (Email/Phone) | Students | ASAP |
 | Internal onboarding & IT identity creation | Wintringham IT | Next week |
-| Privacy & Ethics briefing | David N / Team | Next meeting |
-| Database structure walkthrough | John / Students | Next meeting |
+| Privacy & Ethics briefing | David E / Team | Next meeting |
 | Project Status Report | Students | 1 Month |
 | Final Semester 1 Presentation/Report | Students | 2 Months |
 
@@ -92,7 +90,7 @@ Wintringham is a non-profit organization specializing in housing and support for
 * **Primary Channel:** A dedicated **Microsoft Teams** channel will be established for asynchronous communication and documentation.
 * **Meeting Frequency:** * **Phase 1:** Weekly meetings to bridge the knowledge gap in data science and domain logic.
     * **Phase 2:** Transition to fortnightly meetings as the project stabilizes.
-* **Next Meeting:** **Thursday, April 2, 2026, at 1:00 PM** (Online/Hybrid).
+* **Next Meeting:** **Thursday, April 2, 2026, at 1:00 PM** (Online).
 
 
 
