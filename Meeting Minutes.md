@@ -177,10 +177,9 @@ Wintringham is a non-profit organization specializing in housing and support for
 
 | Task Description | Assigned To | Due Date |
 | :--- | :--- | :--- |
-| Email specific data requirements (system types, sample columns) to Tanya and John | Carrie | ASAP |
 | Submit NDIS Worker Screening applications and report progress | Student Team | Early next week |
-| Send the Project Brief to John for technical context | Tanya | ASAP |
-| Send out the meeting invitation for next Thursday | Carrie | ASAP |
+| Send the Project Brief to John for technical context | Tanya | Early next week |
+| Send out the meeting invitation for next Thursday | Carrie | Early next week |
 
 ---
 
