@@ -92,39 +92,45 @@ Wintringham is a non-profit organization specializing in housing and support for
     * **Phase 2:** Transition to fortnightly meetings as the project stabilizes.
 * **Next Meeting:** **Thursday, April 2, 2026, at 1:00 PM** (Online).
 
-# Meeting Minutes: Royal Dental Hospital Project
+# Meeting Minutes: Second Meeting with Supervisor
 
-**Date:** Wednesday, April 1, 2026
-**TIme:** 16:30-17:30
+**Date:** Wednesday, 1 April 2026
+**Time:** 16:30 – 17:30
 **Participants:** Carrie Shi, Qinyi Zheng, Xiaonan Wang, Zhenhao Hong, Muchuan Ji, Navid
-**Location:** In-person meeting in Melbourne Connect
+**Location:** In-person meeting at Melbourne Connect
 
 ---
 
 ## 1. Project Status & Administrative Issues
-* **Onboarding Progress:** The team has submitted legal names and emails as required.
-* **Screening Check Obstacle:** The organization sent a screening check request that includes a $135 fee per person.
-* **Action Item:** The group will not pay this fee. The supervisor will email the course coordinator (Ian) to address this, as students should not be expected to pay for these checks. 
-* **Working Rights:** Evidence of working rights is also required as part of the screening process.
+* **Onboarding Progress:** The team has successfully submitted legal names and emails as required for the onboarding process.
+* **NDIS Screening Check Obstacle:** The organisation sent a screening check request (NDIS Worker Screening Check) that includes a $135 fee per person. 
+    * **Action Item:** The group agreed not to pay this fee. Navid (Supervisor) will raise this with the course coordinator (Ian) for clarification, as students should not be expected to incur these costs.
+    * **Reporting:** This bottleneck will be officially included as an issue in the upcoming Project Status Report.
+* **Working Rights:** Evidence of working rights is also required as part of the screening process and must be provided by the team.
 
-## 2. Organization Background & Project Scope
-* **Client Profile:** The company supports elderly homeless people transitioning into end-of-life care.
-* **Data Challenge:** Data is currently scattered across various government-funded services with no central link.
+## 2. Organisation Background & Project Scope
+* **Client Profile:** The project involves Wintringham, an organisation supporting elderly homeless people transitioning into end-of-life care. 
+* **Project Understanding:** The team discussed Wintringham’s "Model of Care" and the continuum of care they provide.
 * **Primary Goals:**
-    * Centralize and link the disparate data sets.
-    * Provide an evidence-based report to prove their "model of care" works to help secure government funding.
-    * Analyze which specific supports have the most impact on clients.
+    * Centralise and link disparate datasets currently scattered across various government-funded services.
+    * Provide an evidence-based report to validate the "Model of Care" to help secure continued government funding.
+    * Analyse client transitions and outcomes to determine which specific supports have the most significant impact.
 
 ## 3. Data Access & Technical Roadmap
-* **Bottleneck:** The team currently has zero access to the data, which is delaying the start of exploratory analysis.
-* **Immediate Strategy:** * Request a "demo" or sample version (e.g., 5 rows of data) to understand the column structure and start brainstorming.
-    * Focus on **Exploratory Data Analysis (EDA)** once data is received, including age distributions and gender ratios.
-* **Tooling:** The team is using **Slack** and **WeChat** for internal communication and **GitHub** for code (though no data is to be uploaded to GitHub).
+* **Data Bottleneck:** The team currently has zero access to the data, which is delaying the commencement of exploratory analysis.
+* **Immediate Strategy:** * Request a "demo" or sample version (e.g., a mock-up or 5 rows of data) during the client meeting on **2 April** to understand column structures.
+    * Early data access is prioritised to allow the team to progress with the analysis.
+* **Exploratory Data Analysis (EDA):** Once data is received, the focus will be on EDA, including age distributions, gender ratios, and general methodologies.
+* **Tooling:** * **Communication:** Internal updates via Slack and WeChat.
+    * **Code Management:** GitHub will be used for code, but strictly **no data** is to be uploaded to the repository.
 
-## 4. Upcoming Timeline
-* **Status Report:** A progress report for the course coordinator is due tomorrow.
-* **Next Meeting:** Weekly meetings are set for Tuesdays from 1:00 PM to 2:00 PM.
+## 4. Reporting & Upcoming Timeline
+* **Status Report:** The Week 6 Project Status Report was reviewed and refined during the meeting; it is due for submission to the course coordinator tomorrow.
+* **Meeting Cadence:**
+    * **Internal/General:** Weekly meetings are scheduled for **Tuesdays from 1:00 PM to 2:00 PM**.
+    * **Supervisor Meeting:** Weekly meetings with the academic supervisor are set for **Fridays at 3:00 PM**.
 * **Holiday Note:** Next week is a non-teaching week; no formal meeting will be held.
+* **Future Planning:** A potential meeting with subject coordinators may be required in Week 9 or 10 to address delays caused by limited data access.
 
 
 # Meeting Minutes: Wintringham Data Planning
