@@ -127,5 +127,59 @@ Wintringham is a non-profit organization specializing in housing and support for
 * **Holiday Note:** Next week is a non-teaching week; no formal meeting will be held.
 
 
+# Meeting Minutes: Wintringham Data Planning
 
+**Date:** 2 April 2026  
+**Time:** 13:00 - 14:00
+**Location:** Online Meeting via Teams
+**Participants:**
+* **Wintringham Team:** Tanya (Chair), John (Senior Applications Analyst), David
+* **Student Team:** Carrie and team members
+
+---
+
+## 1. Compliance and Onboarding
+
+* **NDIS Worker Screening:** This is currently the primary bottleneck for the project placement. It was clarified that the placement can commence once the screening application has been **submitted**; the team does not need to wait for the final government clearance to begin work.
+* **COVID-19 Vaccination Records:** As students will not be frequently in the office or in direct contact with clients, there is a greater degree of flexibility regarding vaccination evidence. Students who cannot access their official digital records should send an email stating the dates and locations of their vaccinations.
+
+---
+
+## 2. Project Objectives and Scope
+
+* **Client Journey Mapping:** The project aims to understand the journey of Wintringham clients across various service stages.
+* **Data Integration:** The goal is to link data across multiple disparate systems to create a "Golden Record" or a consolidated client view. This will support a narrative around the continuum of care and help analyse service patterns and outcomes.
+* **Initial Exploration:** The first two months of the placement will be an exploratory phase to assess what data is available and determine if the proposed analysis is realistic.
+
+---
+
+## 3. Technical Discussion and Infrastructure
+
+* **Systems Environment:**
+    * **Azure Data Factory:** Used for data integration and ETL processes.
+    * **SQL Servers & Data Warehouse:** The primary storage for core datasets.
+    * **Business Systems:** Client records are held in systems including Epicor, LeeCare, and Chintaro.
+* **Data Matching Logic:**
+    * Primary matching attributes include Name, Date of Birth, and Address.
+    * Challenges include inconsistent name formats (e.g., "Nicholas" vs "Nick") and address changes.
+    * The team discussed the need for a strategic matching approach, potentially combining deterministic and probabilistic methods.
+* **Student Tools:** The student team suggested using MySQL for local data processing and linking during the brainstorming phase.
+
+---
+
+## 4. Action Items
+
+| Task Description | Assigned To | Due Date |
+| :--- | :--- | :--- |
+| Email specific data requirements (system types, sample columns) to Tanya and John | Carrie | ASAP |
+| Submit NDIS Worker Screening applications and report progress | Student Team | Early next week |
+| Send the Project Brief to John for technical context | Tanya | ASAP |
+| Send out the meeting invitation for next Thursday | Carrie | ASAP |
+
+---
+
+## 5. Next Meeting
+
+* **Schedule:** Thursday, 9 April 2026.
+* **Agenda:** Review specific data queries, follow up on screening submissions, and refine the ETL planning based on the project brief.
 
