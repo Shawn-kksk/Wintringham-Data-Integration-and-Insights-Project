@@ -188,3 +188,48 @@ Wintringham is a non-profit organization specializing in housing and support for
 * **Schedule:** Thursday, 9 April 2026.
 * **Agenda:** Review specific data queries, follow up on screening submissions, and refine the ETL planning based on the project brief.
 
+
+# Meeting Minutes: Project Onboarding and IT Coordination
+
+**Date:** April 9, 2026
+**Participants:** * Carrie and other Student Team Members
+* Ben 
+* David E and N
+* Tanya
+* *Absent:* John (on leave)
+
+---
+
+## 1. Introductions
+* Ben was introduced as the IT Service Delivery Manager. He, along with David and John, will be the primary contacts for infrastructure, access control, and technical support.
+* Depending on the office schedule, students may interact with various members of the IT team for setup.
+
+## 2. Compliance and Screening
+* **Worker Screening (NDIS):**  Due to organizational structure and funding, all participants must undergo NDIS worker screening.
+* **Reimbursement:** Wingtriham will reimburse the cost of the screening. 
+    * **Action:** Students are to start the application process immediately.
+    * **Requirement:** Provide the **submission receipt** to Wingtriham to trigger the reimbursement process.
+* **Supplementary Document:** A new document regarding access to sensitive, non-de-identified personal data needs to be signed. This is in addition to the standard university agreement.
+
+## 3. IT Setup and Systems
+* **System Questions:** 
+    * Technical questions will be handled by John or the IT team upon John's return next week.
+* **Hardware Onboarding:** Once the screening is initiated and documents are signed, students must visit the office with their laptops for initial configuration.
+* **Reimbursement Method:** It was noted that reimbursements for the screening costs will be provided in cash during the office visit.
+
+## 4. Next Steps & Scheduling
+* **Availability:** The regular Thursday slot may no longer work for everyone due to new work commitments. 
+* **Action:** Carrie will send over updated availability to reschedule next week's sync-up.
+
+---
+
+## Action Items
+| Task | Owner | Status |
+| :--- | :--- | :--- |
+| Start NDIS Worker Screening | Student Team | Pending |
+| Submit screening receipts for reimbursement | Student Team | Pending |
+| Sign supplementary data access document | Student Team | Pending |
+| Provide written answers to high-level questions | Tanya | In Progress |
+| Schedule laptop setup office visit | IT Team / Students | To be scheduled |
+| Reschedule next week's meeting | Carrie | Pending |
+
