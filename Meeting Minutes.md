@@ -188,16 +188,23 @@ Wintringham is a non-profit organization specializing in housing and support for
 * **Schedule:** Thursday, 9 April 2026.
 * **Agenda:** Review specific data queries, follow up on screening submissions, and refine the ETL planning based on the project brief.
 
+# Meeting Minutes: Brainstorming of matching name in different database
+
+**Date:** April 8, 2026, 13:00 - 14:00
+**Participants:** Student Team Members
+**Location:** Student Connect Building
+
+**Introduction:** Conducted a brainstorming session regarding the matching of records across various databases. There were suggestions to perform matching based on addresses, as well as proposals to develop a custom similarity algorithm.
 
 # Meeting Minutes: Project Onboarding and IT Coordination
 
-**Date:** April 9, 2026
-**Participants:** * Carrie and other Student Team Members
+**Date:** April 9, 2026, 13:00 - 13:30
+**Participants:** Carrie and other Student Team Members
 * Ben 
 * David E and N
 * Tanya
 * *Absent:* John (on leave)
-
+**Location:** Online via Teams
 ---
 
 ## 1. Introductions
