@@ -240,3 +240,30 @@ Wintringham is a non-profit organization specializing in housing and support for
 | Schedule laptop setup office visit | IT Team / Students | To be scheduled |
 | Reschedule next week's meeting | Carrie | Pending |
 
+# Meeting Minutes: Placement Follow-up & Technical Onboarding
+
+**Date:** April 17, 2026  
+**Participants:** Navid and Student team
+
+---
+
+## 1. Placement Progress & NDIS Screening
+* **NDIS Screening Status:** Some students have completed the NDIS screening process and received confirmation that their checks have been processed.
+
+## 2. Schedule & Logistics
+* **Facilitator Travel:** The facilitator will be traveling for a conference next week and will not be in Melbourne.
+* **Next Meeting:** Due to the travel, the next follow-up meeting will be held online, likely next Thursday or Friday.
+
+## 3. Technical Setup & Data
+* **Data Inquiries:** The students previously sent questions regarding the project data. 
+* **Technical Support:** Tanya answered some questions while Jonathan, the more technical lead, was on leave. 
+
+## 4. Technical Tools: Cursor AI
+* **Tool Introduction:** Navid demonstrated "Cursor," an AI-integrated code editor based on the VS Code environment.
+* **Alternatives:** Other tools discussed included CloudCode (by Anthropic), Codex (by OpenAI), and Antigravity.
+* **Action Item:** Students are required to apply for the one-year free student discount for Cursor.
+
+---
+
+## Action Items Summary
+* **Software Application:** Apply for the Cursor student account via the link provided by the facilitator.
