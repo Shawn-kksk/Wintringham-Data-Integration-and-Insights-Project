@@ -266,4 +266,4 @@ Wintringham is a non-profit organization specializing in housing and support for
 ---
 
 ## Action Items Summary
-* **Software Application:** Apply for the Cursor student account via the link provided by the facilitator.
+* **Software Application:** Apply for the Cursor student account via the link provided by the supervisor.
