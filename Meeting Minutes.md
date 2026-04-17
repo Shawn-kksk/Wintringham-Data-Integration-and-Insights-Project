@@ -251,7 +251,7 @@ Wintringham is a non-profit organization specializing in housing and support for
 * **NDIS Screening Status:** Some students have completed the NDIS screening process and received confirmation that their checks have been processed.
 
 ## 2. Schedule & Logistics
-* **Facilitator Travel:** The facilitator will be traveling for a conference next week and will not be in Melbourne.
+* **Facilitator Travel:** The supervisor will be traveling for a conference next week and will not be in Melbourne.
 * **Next Meeting:** Due to the travel, the next follow-up meeting will be held online, likely next Thursday or Friday.
 
 ## 3. Technical Setup & Data
