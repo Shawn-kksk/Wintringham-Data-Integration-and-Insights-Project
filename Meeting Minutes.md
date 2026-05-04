@@ -265,5 +265,43 @@ Wintringham is a non-profit organization specializing in housing and support for
 
 ---
 
+## Meeting Minutes: Project Initiation & System Access
+
+---
+
+**Meeting Details:**
+* **Participants**: Wintringham Team (David, Ben, John), Student Team
+* **Date**: April 28, 2026
+* **Time**: 2:30 PM
+* **Subject**: System setup, security policies, and data analysis framework
+
+---
+
+### **1. Policy & AI Usage Guidelines**
+* **Environment Compliance**: Students are now formally seconded to Wintringham and must adhere to all internal security and behavioral policies.
+* **AI Policy**:
+    * Generative AI (e.g., ChatGPT) is permitted for general tasks like structuring code.
+    * **Prohibition**: No confidential data or specific data structures/contents may be uploaded to publicly accessible AI tools.
+* **System Usage**: The provided virtual environment is strictly for project work. Personal use (e.g., gaming, shopping) is prohibited.
+
+### **2. Technical Environment & Data Access**
+* **Virtual Machine (VM)**: A locked-down environment will be provided via Remote Desktop Protocol (RDP).
+* **Tools Provided**: SQL Management Studio, Power BI Desktop, and Excel. Additional tools can be requested.
+* **Data Restrictions**: All data must remain within the VM. Extraction of raw data is strictly prohibited and subject to auditing.
+* **Available Datasets**:
+    * Initial access to client datasets for LeeCare, Shintaro, Epicor, and Goldcare.
+    * The "CHIP" application data is currently out of scope; access requires coordination with SMEs.
+
+### **3. Timeline & Next Steps**
+* **Friday Workshop (May 8th)**:
+    * **Time**: 2:30 PM (expected duration: ~1 hour).
+    * **Goal**: Ensure all students can access the VM and test account credentials.
+* **Project Deadline**: The final presentation is scheduled for **May 22, 2026**.
+* **Immediate Action**: Wintringham will email the formal policy documents to the Student Team for review.
+
+---
+
+**Key Contact Reminder**: If any technical issues arise, students should contact Ben or John immediately.
+
 ## Action Items Summary
 * **Software Application:** Apply for the Cursor student account via the link provided by the supervisor.
