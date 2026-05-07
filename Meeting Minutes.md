@@ -305,3 +305,23 @@ Wintringham is a non-profit organization specializing in housing and support for
 
 ## Action Items Summary
 * **Software Application:** Apply for the Cursor student account via the link provided by the supervisor.
+
+
+# Meeting Minutes: Project Data & Strategy Discussion
+
+**Date & Time:** May 7, 2026 | 10:00 AM  
+**Location:** Melbourne Connect, Level 8  
+**Attendees:** Student Team, Michael  
+
+---
+
+## 1. Project Data Contingency Plan
+- **Alternative Sourcing:** Michael confirmed that if the primary dataset remains unavailable by the end of the semester, the teaching team will assist in identifying alternative data sources to ensure the project can be completed.
+- **Grading Assurance:** It was explicitly emphasized that the student team's marks will not be negatively impacted by data acquisition issues. The focus will be on the application of methodology and logic.
+
+## 2. Report Structure & Requirements
+In the event that raw data is not obtained, the final report should remain comprehensive by focusing on the following elements:
+- **Introduction to Wintringham:** A thorough background of the organization and its mission.
+- **Current State Analysis:** Documentation of the "scattered data" environment and the challenges it poses to the organization.
+- **Project Objectives:** Clear articulation of the project goals and the intended impact.
+- **Data Processing Methodology:** A detailed technical description of how the data *would* have been cleaned, transformed, and processed if it were available.
