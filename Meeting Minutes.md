@@ -329,11 +329,9 @@ In the event that raw data is not obtained, the final report should remain compr
 ---
 # Meeting Minutes: Database Integration & Linkage Strategy
 
-**Date & Time:** May 10, 2026 | 21:00 PM
-
-**Location:** Zoom
-
-**Attendees:** Student Team
+**Date & Time:** May 10, 2026 | 21:00 PM  
+**Location:** Zoom  
+**Attendees:** Student Team  
 
 ## 1.Topic
 Data Linkage Solution and Preparation for Meeting with Navid.
