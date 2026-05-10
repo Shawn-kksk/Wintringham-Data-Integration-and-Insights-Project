@@ -325,3 +325,27 @@ In the event that raw data is not obtained, the final report should remain compr
 - **Current State Analysis:** Documentation of the "scattered data" environment and the challenges it poses to the organization.
 - **Project Objectives:** Clear articulation of the project goals and the intended impact.
 - **Data Processing Methodology:** A detailed technical description of how the data *would* have been cleaned, transformed, and processed if it were available.
+
+
+# Meeting Minutes: Database Integration & Linkage Strategy
+
+**Date:** May 10, 2026
+**Topic:** Data Linkage Solution and Preparation for Meeting with Navid  
+**Participants:** Student Team
+
+---
+
+## 1. Meeting Objectives
+* Finalize the data linking strategy across four primary systems: **Epicor**, **GoldCare**, **Chintaro**.
+* Assign responsibilities for the upcoming report and the Tuesday meeting with Navid.
+
+## 2. Technical Solution Overview
+The team brainstormed for connecting disparate databases:
+
+### A. Linkage Methodologies
+1.  **Strong Mapping (Internal ID):** Direct connection between Epicor (`GoldCareID`) and GoldCare (`CRIID`).
+2.  **Business ID Mapping (External ID):** Using government or system-specific reference numbers.
+3.  **Use surname & birthday:** "Name + Date of Birth" logic.
+
+### B. Confidence Scoring Matrix
+The team discussed about establishing a confidence hierarchy for data joins.
