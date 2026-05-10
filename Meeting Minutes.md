@@ -326,20 +326,22 @@ In the event that raw data is not obtained, the final report should remain compr
 - **Project Objectives:** Clear articulation of the project goals and the intended impact.
 - **Data Processing Methodology:** A detailed technical description of how the data *would* have been cleaned, transformed, and processed if it were available.
 
-
+---
 # Meeting Minutes: Database Integration & Linkage Strategy
 
-**Date:** May 10, 2026
-**Topic:** Data Linkage Solution and Preparation for Meeting with Navid  
-**Participants:** Student Team
+Date & Time: May 10, 2026 | 21:00 PM
+Location: Zoom
+Attendees: Student Team
 
----
+## 1.Topic
+Data Linkage Solution and Preparation for Meeting with Navid.
 
-## 1. Meeting Objectives
+
+## 2. Meeting Objectives
 * Finalize the data linking strategy across four primary systems: **Epicor**, **GoldCare**, **Chintaro**.
 * Assign responsibilities for the upcoming report and the Tuesday meeting with Navid.
 
-## 2. Technical Solution Overview
+## 3. Technical Solution Overview
 The team brainstormed for connecting disparate databases:
 
 ### A. Linkage Methodologies
