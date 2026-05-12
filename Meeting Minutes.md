@@ -350,3 +350,44 @@ The team brainstormed for connecting disparate databases:
 
 ### B. Confidence Scoring Matrix
 The team discussed about establishing a confidence hierarchy for data joins.
+
+---
+# Meeting Minutes: Database Integration & Linkage Strategy
+
+**Date & Time:** May 12, 2026 | 15:00 PM
+**Location:** Zoom
+**Attendees:** Navid (Tutor), Student Team
+
+## 1. Topic
+Data Linkage Solution, Exploratory Data Analysis (EDA), and Preparation for Semester Milestones.
+
+## 2. Meeting Objectives
+* Review the structure of the four primary data systems: **Epicor, GoldCare, Chintaro**, and residential care databases.
+* Finalize a data linking strategy for records lacking unique identifiers across all systems.
+* Assign responsibilities for the literature review, data cleaning, and initial EDA.
+* Establish a timeline for the upcoming presentation (Friday, May 22) and the semester report.
+
+## 3. Technical Solution Overview
+The team brainstormed methodologies for connecting disparate databases after receiving the initial dataset.
+
+### A. Linkage Methodologies
+* **Deterministic Matching:** Utilizing shared unique identifiers (e.g., GoldCare IDs) for direct linkage between compatible systems.
+* **Probabilistic Matching:** Implementing a hybrid approach using names, dates of birth (DOB), and addresses to identify matches where IDs are missing or inconsistent.
+* **Hybrid Approach:** Combining ID-based matching with name/DOB similarity scores to increase linkage accuracy across the four tables.
+
+### B. Database Observations
+* **Chintaro Database:** Identified as the largest and most comprehensive source for patient information.
+* **Data Challenges:** Significant effort is required for data cleaning and pre-processing due to inconsistent name formats and missing unique IDs in some systems.
+
+## 4. Project Context & Motivation
+* **Service Analysis:** Focus on validating the effectiveness of services and tracking client transitions across different aged care and homelessness support tiers.
+
+## 5. Action Items
+* **Literature Review:** Two members to draft the review focusing on probabilistic data linking and its applications.
+* **EDA & Visualizations:** Generate initial charts on gender distribution, age demographics, and client counts across databases.
+* **Task Division:** E to lead the data cleaning and script writing for table linkage; others to focus on literature and motivation sections.
+
+## 6. Next Meeting
+* **Date:** Friday, May 15, 2026
+* **Time:** 15:00 PM - 16:00 PM
+* **Location:** Hybrid (In-person / Online via Zoom)
